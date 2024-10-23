@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding specially DSA and web development 
 - 🌱 I’m currently learning Data algorithm 
 - 💞️ I’m looking to collaborate on LinkedIn, GitHub 
-- 📫 How to reach me 9244377974, 23cs10ay32@mitsgwl.ac.in
+- 📫 How to reach me +919244377974, 23cs10ay32@mitsgwl.ac.in
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
